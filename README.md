@@ -4,7 +4,7 @@
     <head>
         <meta name="yandex-verification" content="97d80c2b72eac344" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>shremdoge</title>title>
+        <title>shremdoge</title>
     </head>
     <body>Verification: 97d80c2b72eac344</body>
     <h1>turbo site</h1>
