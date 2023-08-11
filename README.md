@@ -1,7 +1,6 @@
-remote_theme: pages-themes/cayman@v0.2.0
-
 <html>
     <head>
+        <meta name="yandex-verification" content="97d80c2b72eac344" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
     <body>Verification: 97d80c2b72eac344</body>
